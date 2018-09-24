@@ -1,6 +1,6 @@
 var core = require("./core");
 
-describe.skip("Filter", function() {
+describe("Filter", function() {
   describe("#onlyEven()", function() {
     it("returns only those numbers that are even", function() {
       var input = [10, 15, 20, 25, 30, 35];

@@ -1,6 +1,6 @@
 var core = require("./core");
 
-describe.skip("Map", function() {
+describe("Map", function() {
   describe("#multiplyBy10()", function() {
     it("multiplies all elements in an array by 10", function() {
       var input = [45, 1, -10, 11, 250];

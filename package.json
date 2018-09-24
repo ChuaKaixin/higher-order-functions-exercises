@@ -15,6 +15,6 @@
   "author": "Wes Reid",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^22.1.4"
+    "jest": "^23.5.0"
   }
 }

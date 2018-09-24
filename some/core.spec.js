@@ -1,6 +1,6 @@
 var core = require("./core");
 
-describe.skip("some", function() {
+describe("some", function() {
   describe("#anyGreaterThan10()", () => {
     it("anyGreaterThan10([9, 10, 11]) should return true", function() {
       var goodInput = [9, 10, 11];

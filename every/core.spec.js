@@ -1,6 +1,6 @@
 var core = require("./core");
 
-describe.skip("every", function() {
+describe("every", function() {
   describe("#allEven", function() {
     it("allEven([2, 4, 10]) should return true", function() {
       var goodInput = [2, 4, 10];
